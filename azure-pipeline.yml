@@ -1,5 +1,0 @@
-pool: ownpool
-
-steps:
-- script: hostname
-
